@@ -16,6 +16,13 @@ The docs are powered by [Docsify](https://docsify.js.org/) and hosted on [GitHub
 
 You can request changes by making a fork and opening a [pull request](https://github.com/qmk/qmk_firmware/pulls), or by clicking the "Edit this page" link at the bottom of any page.
 
+## To flash Model-F77
+
+- Use http://35.164.28.200:5000/#/xwhatsit/brand_new_model_f/f77/wcass/LAYOUT_all
+- Import mappings and adjust
+- Compile and download firmware
+- Flash with QMK Toolbox, use `atmega32u2`
+
 ## Supported Keyboards
 
 * [Planck](/keyboards/planck/)
